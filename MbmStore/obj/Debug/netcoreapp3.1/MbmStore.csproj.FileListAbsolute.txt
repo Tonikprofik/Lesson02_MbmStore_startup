@@ -1,0 +1,145 @@
+C:\Users\jear\Dropbox\Eaaa-it\2020f\backend\projects\Exercises\Lesson02_MbmStore_Startup\MbmStore\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\jear\Dropbox\Eaaa-it\2020f\backend\projects\Exercises\Lesson02_MbmStore_Startup\MbmStore\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\jear\Dropbox\Eaaa-it\2020f\backend\projects\Exercises\Lesson02_MbmStore_Startup\MbmStore\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\jear\Dropbox\Eaaa-it\2020f\backend\projects\Exercises\Lesson02_MbmStore_Startup\MbmStore\bin\Debug\netcoreapp3.1\MbmStore.exe
+C:\Users\jear\Dropbox\Eaaa-it\2020f\backend\projects\Exercises\Lesson02_MbmStore_Startup\MbmStore\bin\Debug\netcoreapp3.1\MbmStore.deps.json
+C:\Users\jear\Dropbox\Eaaa-it\2020f\backend\projects\Exercises\Lesson02_MbmStore_Startup\MbmStore\bin\Debug\netcoreapp3.1\MbmStore.runtimeconfig.json
+C:\Users\jear\Dropbox\Eaaa-it\2020f\backend\projects\Exercises\Lesson02_MbmStore_Startup\MbmStore\bin\Debug\netcoreapp3.1\MbmStore.runtimeconfig.dev.json
+C:\Users\jear\Dropbox\Eaaa-it\2020f\backend\projects\Exercises\Lesson02_MbmStore_Startup\MbmStore\bin\Debug\netcoreapp3.1\MbmStore.dll
+C:\Users\jear\Dropbox\Eaaa-it\2020f\backend\projects\Exercises\Lesson02_MbmStore_Startup\MbmStore\bin\Debug\netcoreapp3.1\MbmStore.pdb
+C:\Users\jear\Dropbox\Eaaa-it\2020f\backend\projects\Exercises\Lesson02_MbmStore_Startup\MbmStore\bin\Debug\netcoreapp3.1\MbmStore.Views.dll
+C:\Users\jear\Dropbox\Eaaa-it\2020f\backend\projects\Exercises\Lesson02_MbmStore_Startup\MbmStore\bin\Debug\netcoreapp3.1\MbmStore.Views.pdb
+C:\Users\jear\Dropbox\Eaaa-it\2020f\backend\projects\Exercises\Lesson02_MbmStore_Startup\MbmStore\obj\Debug\netcoreapp3.1\MbmStore.csprojAssemblyReference.cache
+C:\Users\jear\Dropbox\Eaaa-it\2020f\backend\projects\Exercises\Lesson02_MbmStore_Startup\MbmStore\obj\Debug\netcoreapp3.1\staticwebassets\MbmStore.StaticWebAssets.Manifest.cache
+C:\Users\jear\Dropbox\Eaaa-it\2020f\backend\projects\Exercises\Lesson02_MbmStore_Startup\MbmStore\obj\Debug\netcoreapp3.1\staticwebassets\MbmStore.StaticWebAssets.xml
+C:\Users\jear\Dropbox\Eaaa-it\2020f\backend\projects\Exercises\Lesson02_MbmStore_Startup\MbmStore\obj\Debug\netcoreapp3.1\MbmStore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jear\Dropbox\Eaaa-it\2020f\backend\projects\Exercises\Lesson02_MbmStore_Startup\MbmStore\obj\Debug\netcoreapp3.1\MbmStore.RazorAssemblyInfo.cache
+C:\Users\jear\Dropbox\Eaaa-it\2020f\backend\projects\Exercises\Lesson02_MbmStore_Startup\MbmStore\obj\Debug\netcoreapp3.1\MbmStore.RazorAssemblyInfo.cs
+C:\Users\jear\Dropbox\Eaaa-it\2020f\backend\projects\Exercises\Lesson02_MbmStore_Startup\MbmStore\obj\Debug\netcoreapp3.1\MbmStore.AssemblyInfoInputs.cache
+C:\Users\jear\Dropbox\Eaaa-it\2020f\backend\projects\Exercises\Lesson02_MbmStore_Startup\MbmStore\obj\Debug\netcoreapp3.1\MbmStore.AssemblyInfo.cs
+C:\Users\jear\Dropbox\Eaaa-it\2020f\backend\projects\Exercises\Lesson02_MbmStore_Startup\MbmStore\obj\Debug\netcoreapp3.1\MbmStore.TagHelpers.input.cache
+C:\Users\jear\Dropbox\Eaaa-it\2020f\backend\projects\Exercises\Lesson02_MbmStore_Startup\MbmStore\obj\Debug\netcoreapp3.1\MbmStore.TagHelpers.output.cache
+C:\Users\jear\Dropbox\Eaaa-it\2020f\backend\projects\Exercises\Lesson02_MbmStore_Startup\MbmStore\obj\Debug\netcoreapp3.1\MbmStore.RazorCoreGenerate.cache
+C:\Users\jear\Dropbox\Eaaa-it\2020f\backend\projects\Exercises\Lesson02_MbmStore_Startup\MbmStore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\jear\Dropbox\Eaaa-it\2020f\backend\projects\Exercises\Lesson02_MbmStore_Startup\MbmStore\obj\Debug\netcoreapp3.1\Razor\Views\Movie\Index.cshtml.g.cs
+C:\Users\jear\Dropbox\Eaaa-it\2020f\backend\projects\Exercises\Lesson02_MbmStore_Startup\MbmStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\jear\Dropbox\Eaaa-it\2020f\backend\projects\Exercises\Lesson02_MbmStore_Startup\MbmStore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\jear\Dropbox\Eaaa-it\2020f\backend\projects\Exercises\Lesson02_MbmStore_Startup\MbmStore\obj\Debug\netcoreapp3.1\MbmStore.RazorTargetAssemblyInfo.cache
+C:\Users\jear\Dropbox\Eaaa-it\2020f\backend\projects\Exercises\Lesson02_MbmStore_Startup\MbmStore\obj\Debug\netcoreapp3.1\MbmStore.RazorTargetAssemblyInfo.cs
+C:\Users\jear\Dropbox\Eaaa-it\2020f\backend\projects\Exercises\Lesson02_MbmStore_Startup\MbmStore\obj\Debug\netcoreapp3.1\MbmStore.Views.pdb
+C:\Users\jear\Dropbox\Eaaa-it\2020f\backend\projects\Exercises\Lesson02_MbmStore_Startup\MbmStore\obj\Debug\netcoreapp3.1\MbmStore.dll
+C:\Users\jear\Dropbox\Eaaa-it\2020f\backend\projects\Exercises\Lesson02_MbmStore_Startup\MbmStore\obj\Debug\netcoreapp3.1\MbmStore.pdb
+C:\Users\jear\Dropbox\Eaaa-it\2020f\backend\projects\Exercises\Lesson02_MbmStore_Startup\MbmStore\obj\Debug\netcoreapp3.1\MbmStore.csproj.CopyComplete
+C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\bin\Debug\netcoreapp3.1\MbmStore.exe
+C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\bin\Debug\netcoreapp3.1\MbmStore.deps.json
+C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\bin\Debug\netcoreapp3.1\MbmStore.runtimeconfig.json
+C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\bin\Debug\netcoreapp3.1\MbmStore.runtimeconfig.dev.json
+C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\bin\Debug\netcoreapp3.1\MbmStore.dll
+C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\bin\Debug\netcoreapp3.1\MbmStore.pdb
+C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\bin\Debug\netcoreapp3.1\MbmStore.Views.dll
+C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\bin\Debug\netcoreapp3.1\MbmStore.Views.pdb
+C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\obj\Debug\netcoreapp3.1\MbmStore.csprojAssemblyReference.cache
+C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\obj\Debug\netcoreapp3.1\staticwebassets\MbmStore.StaticWebAssets.Manifest.cache
+C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\obj\Debug\netcoreapp3.1\staticwebassets\MbmStore.StaticWebAssets.xml
+C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\obj\Debug\netcoreapp3.1\MbmStore.RazorAssemblyInfo.cache
+C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\obj\Debug\netcoreapp3.1\MbmStore.RazorAssemblyInfo.cs
+C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\obj\Debug\netcoreapp3.1\MbmStore.AssemblyInfoInputs.cache
+C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\obj\Debug\netcoreapp3.1\MbmStore.AssemblyInfo.cs
+C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\obj\Debug\netcoreapp3.1\MbmStore.TagHelpers.input.cache
+C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\obj\Debug\netcoreapp3.1\MbmStore.TagHelpers.output.cache
+C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\obj\Debug\netcoreapp3.1\MbmStore.RazorCoreGenerate.cache
+C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\obj\Debug\netcoreapp3.1\Razor\Views\Movie\Index.cshtml.g.cs
+C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\obj\Debug\netcoreapp3.1\MbmStore.RazorTargetAssemblyInfo.cache
+C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\obj\Debug\netcoreapp3.1\MbmStore.RazorTargetAssemblyInfo.cs
+C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\obj\Debug\netcoreapp3.1\MbmStore.Views.pdb
+C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\obj\Debug\netcoreapp3.1\MbmStore.dll
+C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\obj\Debug\netcoreapp3.1\MbmStore.pdb
+C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\obj\Debug\netcoreapp3.1\MbmStore.csproj.CopyComplete
+C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Cryptography.Pkcs.dll
+C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\obj\Debug\netcoreapp3.1\MbmStore.MvcApplicationPartsAssemblyInfo.cache
+C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\obj\Debug\netcoreapp3.1\Razor\Views\Customer\Index.cshtml.g.cs
