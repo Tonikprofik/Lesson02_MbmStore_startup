@@ -143,3 +143,5 @@ C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\bin\Debug\netcoreapp3.1\zh-
 C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\obj\Debug\netcoreapp3.1\MbmStore.MvcApplicationPartsAssemblyInfo.cache
 C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\obj\Debug\netcoreapp3.1\Razor\Views\Customer\Index.cshtml.g.cs
+C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\obj\Debug\netcoreapp3.1\Razor\Views\Catalogue\Index.cshtml.g.cs
+C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\obj\Debug\netcoreapp3.1\Razor\Views\Invoice\Index.cshtml.g.cs

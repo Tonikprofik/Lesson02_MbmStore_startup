@@ -7,18 +7,20 @@ namespace MbmStore.Models
 {
     public class Product
     {
-        //properties
-        private string Title { get; set; }
-        private decimal Price { get; set; }
-        private string ImageUrl { get; set; }
+        //properties (might have to be public)
+        public string Title { get; set; }
+        public decimal Price { get; set; }
+        public string ImageUrl { get; set; }
 
         public Product()
         {
 
         }
-        public Product(string title, decimal price)
+        public Product(string title, decimal price, string imageurl)
         {
-
+            Title = title;
+            Price = price;
+            ImageUrl = imageurl;
         }
     }
 }

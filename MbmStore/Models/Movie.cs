@@ -5,36 +5,34 @@ using System.Web;
 
 namespace MbmStore.Models
 {
-    public class Movie
+    public class Movie : Product
     {
         // fields
         private decimal price;
         private string imageFileName;
 
         // properties
-        public string Title { get; }
+        //public string Title { get; }
         public string Director { get; set; }
+        public short Released { get; set; }
 
-        public string ImageFileName {
-            set { imageFileName = value; }
-            get { return imageFileName; }
-        }
+        public string ImageFileName {get; set;}
 
-        public decimal Price
-        {
-            set
-            {
-                if (value <= 0)
-                {
-                    throw new Exception("Price is not accepted");
-                }
-                else
-                {
-                    price = value;
-                }
-            }
-            get { return price; }
-        }
+        //public decimal Price
+        //{
+        //    set
+        //    {
+        //        if (value <= 0)
+        //        {
+        //            throw new Exception("Price is not accepted");
+        //        }
+        //        else
+        //        {
+        //            price = value;
+        //        }
+        //    }
+        //    get { return price; }
+        //}
 
 
         // constructors
@@ -43,17 +41,17 @@ namespace MbmStore.Models
         public Movie(string title, decimal price)
         {
             Title = title;
-            this.price = price;
+            Price = price;
         }
-
-        public Movie(string title, decimal price, string imageFileName
-            , string director)
+        public Movie(string title, decimal price, string imageurl
+            ,string director) : base(title, price, imageurl)
         {
             Title = title;
-            this.price = price;
-            this.imageFileName = imageFileName;
+            Price = price;
+            ImageFileName = imageurl;
             Director = director;
-            
         }
+
+        
     }
 }

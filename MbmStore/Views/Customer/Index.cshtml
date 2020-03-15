@@ -1,7 +1,7 @@
 ﻿@addTagHelper "*, Microsoft.AspNetCore.Mvc.TagHelpers"
 @using MbmStore.Models;
 @{
-    ViewData["Title"] = "Index";
+    ViewData["Title"] = "Customer";
 }
 
 <h1>Index</h1>
@@ -9,13 +9,20 @@
 
 
 
-<p><ul>
-    @foreach (Customer item in ViewBag.customers)
-    {
-       <li> @item.FirstName @item.LastName @item.Address 
-            @item.City @item.Zip</li>
+<p>
+    <ul>
+
+        @foreach (Customer item in ViewBag.Customers)
+        {
+            <li>
+                @item.FirstName @item.LastName is
+                @item.CalculateAge(@item.BirthDate) old.
+                @string.Join(",", item.PhoneNumbers)
+                @*@item.Address
+                    @item.City @item.Zip*@
+            </li>
 
 
-    }
-</ul>
-    </p>
+        }
+    </ul>
+</p>
