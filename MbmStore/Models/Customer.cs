@@ -10,6 +10,7 @@ namespace MbmStore.Models
         //field
         private DateTime birthDate;
         //props
+        public int CustomerId { get; set; }
         public string FirstName { get; set; }
         public string LastName { get; set; }
         public DateTime BirthDate {

@@ -18,10 +18,11 @@ namespace MbmStore.Models
         {
 
         }
-        public Book(string author, string title
-            ,decimal price, short published, string imageurl) 
-            : base(title,price, imageurl)
+        public Book(int productID,string author, string title
+            ,decimal price, short published) 
+            : base(productID, title,price)
         {
+            ProductID = productID;
             Author = author;
             Published = published;
             

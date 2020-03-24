@@ -15,6 +15,16 @@
 </head>
 
 <body>
+
+    <form asp-action="index" method="post" asp-controller="Invoice">
+        <div>
+            <select name="customer" id="customer"
+                    asp-items="@ViewData["Customers"] 
+                    as List<SelectListItem>"></select>
+            <button type ="submit">Show invoices</button>
+         </div>
+    </form>
+
     <table>
         <tr>
             <th>Customer</th>
@@ -23,7 +33,7 @@
             <th>Sum</th>
         </tr>
 
-        @foreach (Invoice invoice in @ViewBag.Repo)
+        @foreach (Invoice invoice in ViewBag.Invoices)
         {
             <tr>
                 <td>

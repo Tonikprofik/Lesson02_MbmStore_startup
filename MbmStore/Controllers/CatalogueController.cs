@@ -14,11 +14,11 @@ namespace MbmStore.Controllers
         {
 
 
-            ViewBag.Products = Repository.Products;
+            //ViewBag.Products = Repository.Products;
 
 
          
-            return View();
+            return View(Repository.Products);
         }
     }
 }

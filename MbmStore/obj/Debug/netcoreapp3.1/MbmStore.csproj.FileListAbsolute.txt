@@ -52,7 +52,6 @@ C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\obj\Debug\netcoreapp3.1\Mbm
 C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\obj\Debug\netcoreapp3.1\MbmStore.TagHelpers.output.cache
 C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\obj\Debug\netcoreapp3.1\MbmStore.RazorCoreGenerate.cache
 C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
-C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\obj\Debug\netcoreapp3.1\Razor\Views\Movie\Index.cshtml.g.cs
 C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
 C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
 C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\obj\Debug\netcoreapp3.1\MbmStore.RazorTargetAssemblyInfo.cache
@@ -145,3 +144,4 @@ C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\obj\Debug\netcoreapp3.1\Mbm
 C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\obj\Debug\netcoreapp3.1\Razor\Views\Customer\Index.cshtml.g.cs
 C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\obj\Debug\netcoreapp3.1\Razor\Views\Catalogue\Index.cshtml.g.cs
 C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\obj\Debug\netcoreapp3.1\Razor\Views\Invoice\Index.cshtml.g.cs
+C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\obj\Debug\netcoreapp3.1\Razor\Views\Cart\Index.cshtml.g.cs

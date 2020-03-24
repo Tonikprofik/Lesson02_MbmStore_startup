@@ -16,7 +16,7 @@ namespace MbmStore.Models
         public string Director { get; set; }
         public short Released { get; set; }
 
-        public string ImageFileName {get; set;}
+        //public string ImageFileName {get; set;}
 
         //public decimal Price
         //{
@@ -43,12 +43,13 @@ namespace MbmStore.Models
             Title = title;
             Price = price;
         }
-        public Movie(string title, decimal price, string imageurl
-            ,string director) : base(title, price, imageurl)
+        public Movie(int productID,string title, decimal price//, string imageurl
+            ,string director) : base(productID,title, price)
         {
+            ProductID = productID;
             Title = title;
             Price = price;
-            ImageFileName = imageurl;
+           // ImageFileName = imageurl;
             Director = director;
         }
 
