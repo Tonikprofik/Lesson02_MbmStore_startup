@@ -1,72 +1,41 @@
 ﻿@addTagHelper "*, Microsoft.AspNetCore.Mvc.TagHelpers"
 @using MbmStore.Models;
 @using MbmStore.Infrastructure;
-@model IEnumerable<Product>
-@{
+@*@model IEnumerable<Product>*@
+@model ProductListViewModel
+    @{
+   
     ViewData["Title"] = "Catalogue";
 }
+
 <!doctype html>
 <html lang="en">
     <head>
         <title>Catalogue</title>
     </head>
 
-<body>
-<h1>Catalogue</h1>
-<a asp-controller="Home" asp-action="Index">Home</a>
-<p>
-    <h2>Books</h2>
-    <table>
-        @foreach (Book book in Model.OfType<Book>().ToList())
+    <body>
+        <h1>Catalogue</h1>
+        <a asp-controller="Home" asp-action="Index">Home</a>
+
+        @if (Model.Products.OfType<Book>().ToList().Count > 0 )
         {
-            <tr>
-                <td valign="top">
-                    <img src="~/Images/@book.ImageUrl" alt="@book.Title" style="100px" />
-                </td>
-                <td valign="top" style="250px">
-                    <div>
-                        <strong> Title:</strong> @book.Title <br />
-                        <strong> Author:</strong>@book.Author<br />
-                        <strong> Price:</strong> @book.Price <br />
-                        <strong> Publisher:</strong> @book.Publisher (@book.Published) <br />
-                        <strong> ISBN:</strong> @book.ISBN <br />
-                    </div>
-                </td>
-                <td style="vertical-align:bottom; padding:50px">
-                    <div>
-                        <form id="@book.ProductID" asp-action="AddToCart" asp-controller="Cart" method="post">
-                            <input type="hidden" name="ProductID" value="@book.ProductID" />
-                            <input type="hidden" name="returnUrl" value="@ViewContext.HttpContext.Request.PathandQuery()" />
-                            <span class="card-text p-1">
-                                <button type="submit" class="btn btn-success btn-sm pull-right" style="float:right">
-                                    Add to Cart
-                                </button>
-                            </span>
-                        </form>
-                    </div>
-                </td>
-            </tr>
+            <div class="products" style="clear:both">
+                <h2>Books</h2>
+                @foreach (Book book in Model.Products.OfType<Book>().ToList())
+                {
+                    @await Html.PartialAsync("ProductSummaryBook", book)
+                }
+            </div>
         }
-    </table>
-    <br />
-    <br />
 
-    <h2>The Music CDs</h2>
-    <table>
-        @foreach (MusicCD cd in Model.OfType<MusicCD>().ToList())
+        @if (Model.Products.OfType<MusicCD>().ToList().Count() > 0)
         {
-            <tr>
-                <td valign="top">
-                    <img src="~/images/@cd.ImageUrl" alt="@cd.Title" style="width:100px" />
-                </td>
-                <td valign="top" style="250px">
-                    <div>
-                        <strong>Album:</strong> @cd.Title<br />
-                        <strong>Artist:</strong> @cd.Artist<br />
-                        <strong>Price:</strong> @cd.Price<br />
-                        <strong>Publisher:</strong> @cd.Label (@cd.Released)<br /> <br />
-
-                    </div>
+            <div class="products" style="clear:both">
+                <h2>Music CD</h2>
+                @foreach (MusicCD cd in Model.Products.OfType<MusicCD>().ToList())
+                {
+                    @await Html.PartialAsync("ProductSummaryMusicCD", cd)
                     <div>
                         <strong>Tracks:</strong>
 
@@ -78,10 +47,57 @@
                             }
 
                         </ol>
-                    <p><strong>Total playing time</strong>: @cd.GetPlayingTime().Minutes:@cd.GetPlayingTime().Seconds</p>
+                            <p><strong>Total playing time</strong>: @cd.GetPlayingTime().Minutes:@cd.GetPlayingTime().Seconds</p>
                     </div>
-                </td>
-            
+                }
+             </div>
+        }
+
+        @if (Model.Products.OfType<Movie>().ToList().Count > 0)
+        {
+            <div class="products" style="clear:both">
+                <h2>Movies</h2>
+                @foreach (Movie movie in Model.Products.OfType<Movie>().ToList())
+                {
+                    @await Html.PartialAsync("ProductSummMovies", movie)
+                }
+            </div>
+        }
+    <div page-model="@Model.PagingInfo" page-action="Index" page-classes-enabled ="true"
+         page-class="btn" page-class-normal="btn-secondary"
+         page-class-selected="btn-primary" page-url-category="@Model.CurrentCategory" class="btn-group pull-right m-1"></div>
+        @*
+        <h2>The Music CDs</h2>
+        <table>
+            @foreach (MusicCD cd in Model.OfType<MusicCD>().ToList())
+            {
+                <tr>
+                    <td valign="top">
+                        <img src="~/images/@cd.ImageUrl" alt="@cd.Title" style="width:100px" />
+                    </td>
+                    <td valign="top" style="250px">
+                        <div>
+                            <strong>Album:</strong> @cd.Title<br />
+                            <strong>Artist:</strong> @cd.Artist<br />
+                            <strong>Price:</strong> @cd.Price<br />
+                            <strong>Publisher:</strong> @cd.Label (@cd.Released)<br /> <br />
+
+                        </div>
+                        <div>
+                            <strong>Tracks:</strong>
+
+                            <ol>
+
+                                @foreach (Track track in @cd.Tracks)
+                                {
+                                    <li>@track.Title (@track.Composer) @track.Length.Minutes:@track.Length.Seconds </li>
+                                }
+
+                            </ol>
+                            <p><strong>Total playing time</strong>: @cd.GetPlayingTime().Minutes:@cd.GetPlayingTime().Seconds</p>
+                        </div>
+                    </td>
+
                     <td style="vertical-align:bottom; padding-left:50px">
                         <div>
                             <form id="@cd.ProductID" asp-action="AddToCart" asp-controller="Cart" method="post">
@@ -95,13 +111,13 @@
                             </form>
                         </div>
                     </td>
-              </tr>
-}
+                </tr>
+            }
         </table>
         <br />
-        <br />
+        <br /> *@
 
-        <h2>The Movies</h2>
+        @*<h2>The Movies</h2>
         <table>
             @foreach (Movie movie in Model.OfType<Movie>().ToList())
             {
@@ -130,7 +146,7 @@
                     </td>
                 </tr>
             }
-        </table>
+        </table>*@
 </body>
 </html>
         

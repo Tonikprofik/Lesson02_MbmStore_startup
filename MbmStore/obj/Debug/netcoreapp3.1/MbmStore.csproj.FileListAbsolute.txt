@@ -145,3 +145,13 @@ C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\obj\Debug\netcoreapp3.1\Raz
 C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\obj\Debug\netcoreapp3.1\Razor\Views\Catalogue\Index.cshtml.g.cs
 C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\obj\Debug\netcoreapp3.1\Razor\Views\Invoice\Index.cshtml.g.cs
 C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\obj\Debug\netcoreapp3.1\Razor\Views\Cart\Index.cshtml.g.cs
+C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\ProductSummaryBook.cshtml.g.cs
+C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\ProductSummaryMusicCD.cshtml.g.cs
+C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\ProductSummMovies.cshtml.g.cs
+C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_AddToCartButton.cshtml.g.cs
+C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\NavigationMenu\Default.cshtml.g.cs
+C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\bin\Debug\netcoreapp3.1\libman.json
+C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\CartSummary\Default.cshtml.g.cs
+C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\obj\Debug\netcoreapp3.1\Razor\Views\Order\Checkout.cshtml.g.cs
+C:\Treihard\VS C#\Lesson02_MbmStore_startup\MbmStore\obj\Debug\netcoreapp3.1\Razor\Views\Order\Completed.cshtml.g.cs

@@ -1,0 +1,23 @@
+﻿@model MbmStore.Models.MusicCD
+@*@using MbmStore.Infrastructure*@
+@using MbmStore.Models
+
+        <div class="row">
+            <div class="col-md-2">
+                @*<h4>MusicCD</h4>*@
+
+                <img src="~/images/@Model.ImageUrl" alt="@Model.Title" style="width:100px" />
+                </div>
+                <div class="col-md-4">
+                    <strong>Album:</strong> @Model.Title<br />
+                    <strong>Artist:</strong> @Model.Artist<br />
+                    <strong>Price:</strong> @Model.Price<br />
+                    <strong>Publisher:</strong> @Model.Label (@Model.Released)<br /> <br />
+
+                </div>
+            @await Html.PartialAsync("_AddToCartButton",(Product) Model)
+               </div>
+            <div>
+                @Html.ActionLink("Edit", "Edit", new { /* id = Model.PrimaryKey */ }) |
+                <a asp-action="Index">Back to List</a>
+            </div>

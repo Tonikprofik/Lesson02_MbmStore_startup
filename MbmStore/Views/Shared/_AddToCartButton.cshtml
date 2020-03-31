@@ -1,0 +1,19 @@
+﻿@model MbmStore.Models.Product
+@using MbmStore.Infrastructure
+
+    <div class="col-md-6">
+        <form id="@Model.ProductID" asp-controller="Cart" asp-action="AddToCart" method="post">
+            <input type="hidden" name="ProductID" value="@Model.ProductID" />
+            <input type="hidden" name="returnUrl" value="@ViewContext.HttpContext.Request.PathandQuery()" />
+            <span class="cart-text p-1">
+                <button type="submit" class="btn btn-success btn-sm pull-right" style="float:right">
+                    Add To Cart
+                </button>
+            </span>
+        </form>
+    </div>
+
+@*<div>
+    <a asp-action="Index">Back to List</a>
+</div>*@
+

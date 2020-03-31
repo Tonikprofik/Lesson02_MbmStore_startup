@@ -14,11 +14,13 @@ namespace MbmStore.Infrastructure
         {
             var mov1 = new Movie(100,"Jungle Book", 160.50m, "Zac Snyder");
             mov1.ImageUrl = "junglebook.jpg";
+            mov1.Category = "Movie";
             var mov2 = new Movie(101,"Little Woman", 120m, "James Cameron");
             mov2.ImageUrl = "lilwmn.jpg";
+            mov2.Category = "Movie";
             var mov3 = new Movie(102,"Harry Potter", 190m, "Christopher Nolan");
             mov3.ImageUrl = "hrptr.jpg";
-
+            mov3.Category = "Movie";
             Products.Add(mov1);
             Products.Add(mov2);
             Products.Add(mov3);
@@ -31,18 +33,21 @@ namespace MbmStore.Infrastructure
             var book1 = new Book(200,"Ray Bradbury", "Fahrenheit 451"
                         , 190.5m, 1984 );
                 book1.Publisher = "Rybka Publishers";
-            book1.ImageUrl = "fahren.jfif";
+                book1.ImageUrl = "fahren.jfif";
                 book1.ISBN = "0112911666";
+                book1.Category = "Book";
             var book2 = new Book(201,"Michael Pollan", "How to Change The New Science"
                         , 190.5m, 1950);
                 book2.Publisher = "Rybka Publishers";
-            book2.ImageUrl = "lsd.jfif";
-            book2.ISBN = "01244557889";
+                book2.ImageUrl = "lsd.jfif";
+                book2.ISBN = "01244557889";
+                book2.Category = "Book";
             var book3 = new Book(202,"James Clear", "Atomic Habits"
                         , 190.5m, 1984);
                 book3.Publisher = "Donuta Pubs";
                 book3.ImageUrl = "atmc.jpg";
                 book3.ISBN = "1555789666";
+                book3.Category = "Book";
             Products.Add(book1);
             Products.Add(book2);
             Products.Add(book3);
@@ -50,6 +55,7 @@ namespace MbmStore.Infrastructure
             var cd1 = new MusicCD(300,"The Growlers", "Casual Aquaintances"
                     , 3.50m, "Warner bros", 2016 );
             cd1.ImageUrl = "grwlrs.jfif";
+            cd1.Category = "Music";
             cd1.AddTrack(new Track("Good Advice", new TimeSpan(0, 3, 50)));
             cd1.AddTrack(new Track("Dull Boy", new TimeSpan(0, 3, 50)));
             cd1.AddTrack(new Track("Dope on Rope", new TimeSpan(0, 3, 50)));
@@ -57,6 +63,7 @@ namespace MbmStore.Infrastructure
             var cd2 = new MusicCD(301,"Pink Floyd", "Wish You Were Here"
                     , 50m, "Warner bros", 1985);
             cd2.ImageUrl = "pnkfld.jfif";
+            cd2.Category = "Music";
             cd2.AddTrack(new Track("Shine On You Crazy Diamond"
                 , new TimeSpan(0, 3, 50)));
             cd2.AddTrack(new Track("Wish You Were Here", new TimeSpan(0, 3, 50)));
@@ -64,6 +71,7 @@ namespace MbmStore.Infrastructure
             var cd3 = new MusicCD(302,"Allah-Las", "Allah-Las"
                     , 5.50m, "Warner bros", 2012);
             cd3.ImageUrl = "allah.jfif";
+            cd3.Category = "Music";
             cd3.AddTrack(new Track("Catamaran", new TimeSpan(0, 4, 50)));
             cd3.AddTrack(new Track("Sandy", new TimeSpan(0, 5, 25)));
             cd3.AddTrack(new Track("No Voodoo", new TimeSpan(0, 3, 50)));
